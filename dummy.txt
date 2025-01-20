@@ -1,0 +1,42 @@
+[
+  {
+    "name": "John Doe",
+    "age": 21,
+    "email": "john.doe@example.com",
+    "gender": "M",
+    "address": "123 Elm Street, Springfield",
+    "status": "active"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 23,
+    "email": "jane.smith@example.com",
+    "gender": "F",
+    "address": "456 Oak Avenue, Shelbyville",
+    "status": "active"
+  },
+  {
+    "name": "Alex Johnson",
+    "age": 20,
+    "email": "alex.johnson@example.com",
+    "gender": "O",
+    "address": "789 Pine Road, Capital City",
+    "status": "inactive"
+  },
+  {
+    "name": "Emily Davis",
+    "age": 22,
+    "email": "emily.davis@example.com",
+    "gender": "F",
+    "address": "101 Maple Street, Ogdenville",
+    "status": "active"
+  },
+  {
+    "name": "Ajmal",
+    "age": 24,
+    "email": "ajmal@example.com",
+    "gender": "M",
+    "address": "banglure",
+    "status": "inactive"
+  }
+]
