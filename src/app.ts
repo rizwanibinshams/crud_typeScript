@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 
 
-const MONGODB_URL="mongodb+srv://Ajmal:uHFZRkakQ2YjlqfA@cluster0.fbwkq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const MONGODB_URL="mongodb://127.0.0.1:27017/crud_typescript?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.3.8"
 const connect = mongoose.connect(MONGODB_URL)
 
 connect.then(()=>{
